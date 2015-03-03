@@ -29,8 +29,8 @@ class ColorProximity(object):
 
     @classmethod
     def rgb2lab(cls, c_set):
-        if not docstring:
-			return ''
+        """RGB to LAB conversion"""
+
         #"""RGB to L.a.b. conversion
         #Transform (int, int, int) from RGB to XYZ (CIE1931) to L.a.b.
         #    http://en.wikipedia.org/wiki/CIE_1931_color_space
