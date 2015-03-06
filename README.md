@@ -56,7 +56,7 @@ along with this program.  If not, see http://www.gnu.org/licenses/.
 
 __BSD :__ [BSD license info via OpenSource.org](http://opensource.org/licenses/BSD-3-Clause)
 
-Copyright (c) 2014, Data Mafia
+Copyright (c) 2015, Data Mafia
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
