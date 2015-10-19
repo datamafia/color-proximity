@@ -54,6 +54,8 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see http://www.gnu.org/licenses/.
 
+This line was added as part of a test for CI.
+
 __BSD :__ [BSD license info via OpenSource.org](http://opensource.org/licenses/BSD-3-Clause)
 
 Copyright (c) 2015, Data Mafia
