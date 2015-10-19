@@ -1,3 +1,7 @@
+
 test:
   override:
     - python tests.py
+deployment:
+  production:
+    branch: circle-ci
