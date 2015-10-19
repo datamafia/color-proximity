@@ -2,6 +2,7 @@
 test:
   override:
     - python tests.py
-deployment:
-  try:
-    branch: circle-ci
+general:
+  branches:
+    only:
+      - circle-ci
